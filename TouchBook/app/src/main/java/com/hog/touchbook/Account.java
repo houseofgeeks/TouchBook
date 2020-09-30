@@ -148,7 +148,7 @@ public class Account extends AppCompatActivity {
                 final TextView text = new TextView(this);
                 text.setLayoutParams(params);
                 text.setText(data);
-                text.setBackgroundColor(Color.parseColor("#a8325e"));
+                text.setBackgroundColor(Color.parseColor("#e5335c"));
                 text.setTextSize(24);
                 text.setTextColor(-1);
                 text.setPadding(1, 20, 1, 20);
