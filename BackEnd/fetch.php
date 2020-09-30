@@ -1,5 +1,5 @@
 <?php
-$mysqli=new mysqli("server","databasename","password","databasename","port");
+$mysqli=new mysqli("fdb21.awardspace.net","2734291_data","password","2734291_data","3306");
 $data="";
 $query="SELECT * FROM touch_data";
 $result=$mysqli->query($query);
